@@ -16,11 +16,24 @@ Compilation of ever going implementations of various DSA
 
 # Implemented Algorithms
 
+### Searching
 - Binary search
+
+### Sorting 
 - Bubble sort
 - Insertion sort
 - Merge Sort
 - Quick Sort
 - Selection Sort
 
+### Dynamic programming
 
+- 01 Knapsack problem
+
+### Greedy algorithm
+
+- Coin changing problem
+
+### String search
+
+- BoyreMoore 
